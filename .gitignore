@@ -1,0 +1,18 @@
+# 原文和扩料不入 git（受著作权保护期限制）
+source/
+corpus/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.bak
+*~
